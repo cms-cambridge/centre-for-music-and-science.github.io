@@ -15,7 +15,7 @@ class SiblingNavSmokeTests(HugoSiteSmokeTest):
         self.assertIn('aria-label="Research topics"', html)
         self.assertIn("Previous topic", html)
         self.assertIn("Next topic", html)
-        self.assertIn("/topics/computational-music-cognition/", html)
+        self.assertIn("/topics/music-pleasure/", html)
         # Same weight as this page; title sorts after "Computational analysis...".
         self.assertIn("/topics/dynamics-of-music-popularity/", html)
         # Sibling nav sits after the body, before related projects/pubs.
@@ -29,7 +29,7 @@ class SiblingNavSmokeTests(HugoSiteSmokeTest):
             "topics/computational-music-cognition/index.html"
         )
         self.assertIn("Next topic", html)
-        self.assertIn("/topics/computational-analysis-musical-style/", html)
+        self.assertIn("/topics/music-pleasure/", html)
         self.assertNotIn("Previous topic", html)
         self.assertNotIn("/topics/microtonal-jazz/", html)
 

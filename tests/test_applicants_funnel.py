@@ -128,13 +128,13 @@ class ApplicantsFunnelSmokeTests(HugoSiteSmokeTest):
         # Descendant project (music-mood-regulation under emotions) publication.
         self.assertIn("tan-mood-regulation", html)
 
-    def test_topic_detail_shows_supervisor_and_cosupervisors(self):
+    def test_topic_detail_shows_primary_contact_and_collaborators(self):
         html = self._read(
             "topics/individual-and-cross-cultural-differences/index.html"
         )
-        self.assertIn("Supervisor:", html)
+        self.assertIn("Primary contact:", html)
         self.assertIn("/people/peter-harrison/", html)
-        self.assertIn("Possible cosupervisors", html)
+        self.assertIn("Potential collaborators", html)
         self.assertIn("/people/nori-jacoby/", html)
         self.assertIn("/people/daniel-mullensiefen/", html)
         self.assertIn("/people/harin-lee/", html)

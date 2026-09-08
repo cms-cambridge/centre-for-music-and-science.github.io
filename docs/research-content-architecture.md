@@ -93,9 +93,9 @@ Relationship rules:
 - `thumbnail_credit` is optional attribution for third-party thumbnails; when
   set, it renders under the detail-page thumbnail only (not on brochure cards).
 - The Markdown body is the detailed description shown only on the topic page.
-- `supervisor` is an optional people slug shown on the detail page as Supervisor.
+- `supervisor` is an optional people slug shown on the detail page as Primary contact.
 - `cosupervisors` is an optional list of people slugs shown on the detail page
-  as Possible cosupervisors. External collaborators can use people records with
+  as Potential collaborators. External collaborators can use people records with
   `positions[].kind: collaborator` (these are omitted from People listings).
 - Every slug in `projects` must resolve to an existing `content/projects` record.
 - Every slug in `publications` must resolve to an existing `content/publications` record.

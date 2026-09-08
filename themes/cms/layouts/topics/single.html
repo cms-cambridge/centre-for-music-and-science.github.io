@@ -10,7 +10,7 @@
         <h1>{{ .Title }}</h1>
         {{ with .Params.supervisor }}
         <p class="topic-supervisor-meta">
-          <strong>Supervisor:</strong>
+          <strong>Primary contact:</strong>
           {{- $supervisorSlug := . -}}
           {{- with $.Site.GetPage (path.Join "/people" $supervisorSlug) }}
             <a href="{{ .RelPermalink }}">{{ .Title }}</a>
@@ -21,7 +21,7 @@
         {{ end }}
         {{ with .Params.cosupervisors }}
         <p class="topic-supervisor-meta">
-          <strong>Possible cosupervisors:</strong>
+          <strong>Potential collaborators:</strong>
           {{ range $i, $slug := . }}
             {{- if $i }}, {{ end -}}
             {{- with $.Site.GetPage (path.Join "/people" $slug) -}}
