@@ -2,7 +2,7 @@
 title: "Leverhulme Early Career Fellowship opportunities hosted by the Centre for Music and Science"
 date: 2026-09-10
 summary: "Prospective applicants for the 2027 Leverhulme Early Career Fellowships are invited to explore hosting opportunities with the Faculty of Music and the Centre for Music and Science."
-image: ""
+image: "/images/logos/leverhulme-trust.jpg"
 ---
 
 The [Leverhulme Trust Early Career Fellowships scheme](https://www.leverhulme.ac.uk/early-career-fellowships) is now open for the 2027 competition. These three-year fellowships enable early-career researchers to undertake a significant independent research project. The University of Cambridge provides matched funding for successful candidates through the [Isaac Newton Trust](https://www.newtontrust.cam.ac.uk/ECFs/LeverhulmeECF), and the Faculty of Music welcomes applications from candidates whose work would benefit from being hosted in Cambridge.
