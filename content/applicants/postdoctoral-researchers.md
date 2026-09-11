@@ -22,9 +22,10 @@ Several recurring postdoctoral fellowship programmes can support a position at t
 
 - [British Academy Postdoctoral Fellowships](https://www.thebritishacademy.ac.uk/funding/postdoctoral-fellowships/)
   - Open to British citizens and EEA nationals, or people with a UK doctorate.
-  - See the [2026 CMS announcement](/news/british-academy-postdoctoral-fellowships-2026/) for this year's application details and internal deadline.
+  - The 2026 Cambridge internal competition is now closed. See the [2026 CMS announcement](/news/british-academy-postdoctoral-fellowships-2026/) for reference.
 - [Leverhulme Trust Early Career Fellowships](https://www.leverhulme.ac.uk/early-career-fellowships)
-  - Open to people with a UK degree.
+  - For early-career researchers, normally within four years of submitting their doctoral thesis, who meet the scheme's UK degree or UK academic-position requirements.
+  - For the 2027 competition, draft applications must reach the Faculty of Music by **12 noon on Thursday 22 October 2026, UK time**. See the [2027 CMS announcement](/news/leverhulme-early-career-fellowships-2027/) for further details.
 - [Newton International Fellowships](https://www.thebritishacademy.ac.uk/funding/newton-international-fellowships/)
   - Open to people working outside the UK who do not have UK citizenship.
 - [Marie Skłodowska-Curie Postdoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships)
@@ -50,7 +51,7 @@ Please consult each funder's current guidance for definitive eligibility, deadli
 
 For fellowships other than Junior Research Fellowships, the University typically sets internal deadlines several weeks before the funder's published deadline. Even where no internal deadline is stated, the Research Office requires significant notice.
 
-### Expressions of interests
+### Expressions of interest
 
 Please contact [Peter Harrison](/people/peter-harrison/) well in advance—ideally at least two months before the funder deadline—to discuss potential topics and application strategy. It would be helpful if you could include the following with your email:
 
