@@ -3172,7 +3172,7 @@ a.pub-item-title:hover {
   transition: transform 0.2s;
 }
 
-.applicants-mailing-block {
+.mailing-list-block {
   background: var(--color-accent-light);
   border-left: 4px solid var(--color-accent);
   padding: 20px 24px;
@@ -3180,13 +3180,17 @@ a.pub-item-title:hover {
   border-radius: 0 8px 8px 0;
 }
 
-.applicants-mailing-text {
+.upcoming-events-list-page .mailing-list-block {
+  margin-bottom: 24px;
+}
+
+.mailing-list-text {
   font-size: 1rem;
   color: var(--color-text);
   margin-bottom: 12px;
 }
 
-.applicants-mailing-btn {
+.mailing-list-btn {
   display: inline-block;
   background: var(--color-accent);
   color: #fff;
@@ -3198,7 +3202,7 @@ a.pub-item-title:hover {
   transition: opacity 0.2s;
 }
 
-.applicants-mailing-btn:hover {
+.mailing-list-btn:hover {
   opacity: 0.9;
 }
 

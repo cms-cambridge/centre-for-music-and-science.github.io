@@ -12,6 +12,7 @@
 <section class="upcoming-events-list-page">
   <div class="container">
     <h1 class="page-title">{{ .Title }}</h1>
+    {{ partial "seminar-mailing-list.html" . }}
     <div class="events-timeline">
       {{ range $upcoming }}
       {{ $event := . }}
