@@ -5,6 +5,7 @@ draft: false
 location: "Centre for Music and Science, Faculty of Music"
 speakers:
   - name: "Safiyyah Nawaz"
+    image: "/images/events/safiyyah-nawaz.jpg"
     affiliations:
       - "Goldsmiths, University of London"
 event_type: "CMS seminar"
