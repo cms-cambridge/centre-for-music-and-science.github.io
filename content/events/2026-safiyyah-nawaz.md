@@ -10,7 +10,7 @@ speakers:
       - "Goldsmiths, University of London"
 event_type: "CMS seminar"
 image: ""
-livestream_url: "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YWMxY2IxM2QtMjViZi00ODVhLTg3MTAtYTgxMDhkMjIyMzIy%40thread.v2/0?context=%7b%22Tid%22%3a%2249a50445-bdfa-4b79-ade3-547b4f3986e9%22%2c%22Oid%22%3a%2276efddf5-04f8-4a05-b315-64d4fd2c0296%22%7d"
+livestream_url: "https://gwdg.zoom.us/j/82453974531?pwd=alB7qRPLAPaQU540M5RsvtNrdva2II.1&jst=2"
 abstract: |
   Music is present in much of our lives; it accompanies important moments, brings people together, and shapes our identities and preferences as we grow. Music can also bring back vivid memories, a mechanism that is maintained even as we age and in populations with memory impairments such as Alzheimer’s Disease. Over time, music weaves itself into our individual and shared histories, supporting the formation, consolidation, and retrieval of memories. In this talk, I review what is currently understood about music and autobiographical memory and present contemporary approaches to better understanding music’s influence on memory using methods including experience sampling, citizen science and natural language processing analyses. I examine how characteristics of the music, listener and listening context contribute both to encoding and retrieval of a memory, and what such effects can tell us about memory processes more broadly. I argue that more ecological and representative approaches are needed to address outstanding questions clarifying effects across stages of memory, underlying cognitive mechanisms, and generalisability across cultures.
 biography: |
