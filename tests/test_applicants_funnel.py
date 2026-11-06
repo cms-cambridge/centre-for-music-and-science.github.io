@@ -8,6 +8,10 @@ from tests.hugo_smoke import HugoSiteSmokeTest
 
 
 class ApplicantsFunnelSmokeTests(HugoSiteSmokeTest):
+    def test_postdoctoral_back_link_goes_to_applicants_hub(self):
+        html = self._read("applicants/postdoctoral-researchers/index.html")
+        self.assertIn("<a class=back-link href=/applicants/>&larr; Join us</a>", html)
+
     def test_applicants_hub_links_to_pathways_not_topics_index(self):
         html = self._read("applicants/index.html")
         self.assertIn("/applicants/phd/", html)

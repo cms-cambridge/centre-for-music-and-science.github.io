@@ -3,7 +3,7 @@
   <div class="container">
     <div class="detail-back-layout">
       <aside class="detail-back-rail">
-        {{ partial "back-link.html" (dict "href" ("publications/" | relURL)) }}
+        {{ partial "back-link.html" (dict "href" ("publications/" | relURL) "label" "Publications") }}
       </aside>
       <div class="project-detail-content">
       {{ partial "publication-require-bibtex.html" . }}

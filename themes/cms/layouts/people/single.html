@@ -5,7 +5,7 @@
   <div class="container">
     <div class="detail-back-layout">
       <aside class="detail-back-rail">
-        {{ partial "back-link.html" (dict "href" (printf "%s#people" .Site.Home.RelPermalink)) }}
+        {{ partial "back-link.html" (dict "href" (printf "%s#people" .Site.Home.RelPermalink) "label" "People") }}
       </aside>
       <div>
         <div class="person-page-header">

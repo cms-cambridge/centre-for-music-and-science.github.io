@@ -2,7 +2,7 @@
 <div class="facilities-page">
   <div class="container">
     <div class="page-back-top">
-      {{ partial "back-link.html" (dict "href" .Site.Home.RelPermalink) }}
+      {{ partial "back-link.html" (dict "href" .Site.Home.RelPermalink "label" "Home") }}
     </div>
     <h1 class="page-title">Facilities</h1>
     <p class="facilities-intro">{{ .Params.description }}</p>

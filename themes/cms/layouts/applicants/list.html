@@ -2,7 +2,7 @@
 <div class="applicants-page">
   <div class="container">
     <div class="page-back-top">
-      {{ partial "back-link.html" (dict "href" .Site.Home.RelPermalink) }}
+      {{ partial "back-link.html" (dict "href" .Site.Home.RelPermalink "label" "Home") }}
     </div>
     <h1 class="page-title">{{ .Title }}</h1>
     {{ with .Params.description }}
