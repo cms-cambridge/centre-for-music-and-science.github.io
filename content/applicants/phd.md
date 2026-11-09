@@ -33,7 +33,7 @@ The latest fees are on the [Postgraduate Finance page](https://www.postgraduate.
 
 ### Funding
 
-PhD funding is available but competitive. Most applications go through a central University scheme; see [Funding Postgraduate Study](https://www.mus.cam.ac.uk/applicants/graduate/funding-graduate-study). To be eligible you typically need to apply well in advance, typically around a year in advance of your start date.
+PhD funding is available but competitive. Many scholarships cover full tuition fees at the international rate and provide a stipend for living expenses. Most applications go through a central University scheme; see [Funding Postgraduate Study](https://www.mus.cam.ac.uk/applicants/graduate/funding-graduate-study). To be eligible you typically need to apply well in advance, typically around a year in advance of your start date.
 
 ## Applying
 
